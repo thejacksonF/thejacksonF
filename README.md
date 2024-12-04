@@ -72,6 +72,7 @@
 	<a href="#"><img alt="Brave" src="https://img.shields.io/badge/Brave-FB542B?logo=brave&logoColor=white"></a>
 	<a href="#"><img alt="Chrome" src="https://img.shields.io/badge/Google_chrome-4285F4?logo=Google-Chrome&logoColor=white"></a>
 	<a href="#"><img alt="Opera GX" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLILI4KfXI348jmvAtf9rotuuk9lBshwMDhw&s"></a>
+
 </p>
 
 ## Databases and Cloud hosting
