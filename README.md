@@ -9,13 +9,15 @@
 <h2> About Me:
 
 
-- 🔭  Actualmente estoy estudiando ITIT en la universidad La Salle
-- 🌱 Soy un experimentado escritor, saludos.
-- 👯 Busco trabajar en una compañia grande como desarrollador de software o de paginas web, como Microsoft, Google o NVIDIA
-- 💬 Conozco sobre Python, Markwdown, ciertos conocimientos de IA.
-- ⚡ Fun fact: Me gusta la poesia. 
-- 🤔 Estoy constantemente tomando cursos de progamación para mejorar las bases y/o conocer más areas (actualmente estoy viendo sobre ciberseguridad)
-- 📫 Soy un aficionado por la fisica.
+- 🔭 I am currently studying ITIT at La Salle University.
+- 🌱 I am an experienced writer, greetings.
+- 👯 I am looking to work in a big company as a software or web developer, like Microsoft, Google or NVIDIA.
+- 💬 I know about Python, Markwdown, some AI knowledge.
+- ⚡ Fun fact: I like poetry. 
+- 🤔 I'm constantly taking programming courses to improve the basics and/or learn more areas (currently looking into cybersecurity).
+- 📫 I am a physics buff.
+
+Translated with DeepL.com (free version)
 -  📰 Articles: 
 	-	[Learn python with the one of the best platform for beginners!](https://www.coursera.org/learn/aprendiendo-programar-python) 
 	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
