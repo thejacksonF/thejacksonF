@@ -103,6 +103,13 @@ Translated with DeepL.com (free version)
 <a href="https://steamcommunity.com/id/kk10-/" target="_blank"><img width="110px" alt="Steam" src="https://e7.pngegg.com/pngimages/768/845/png-clipart-brand-logo-product-design-font-steam-text-logo.png" />
 </a>
 </div>
+<div align="center">
+  <a href="francisco.avitia.jaquez@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail Badge">
+  </a>
+</div>
+
+
 
 [![Gmail Badge](https://img.shields.io/badge/-francisco.avitia.jaquez@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:asterp04@gmail.com)](mailto:asterp04@gmail.com)
 
