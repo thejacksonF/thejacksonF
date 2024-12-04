@@ -17,7 +17,7 @@
 - 🤔 Estoy constantemente tomando cursos de progamación para mejorar las bases y/o conocer más areas (actualmente estoy viendo sobre ciberseguridad)
 - 📫 Soy un aficionado por la fisica.
 -  📰 Articles: 
-	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
+	-	[Learn python with the one of the best platform for beginners!](https://www.coursera.org/learn/aprendiendo-programar-python) 
 	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Languages & Tools I Know...***
