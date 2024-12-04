@@ -17,7 +17,6 @@
 - 🤔 I'm constantly taking programming courses to improve the basics and/or learn more areas (currently looking into cybersecurity).
 - 📫 I am a physics buff.
 
-Translated with DeepL.com (free version)
 -  📰 Articles: 
 	-	[Learn python with the one of the best platform for beginners!](https://www.coursera.org/learn/aprendiendo-programar-python) 
 	- [Dog Breed Classifier With PyTorch Using Transfer Learning](https://levelup.gitconnected.com/dog-breed-classifier-with-pytorch-using-transfer-learning-8f15af6f9010)
