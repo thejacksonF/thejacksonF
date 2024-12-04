@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Sebastián Avitia Jaquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">The Python learner | The programmer | The ultimate ITIT </h3>
+<h3 align="center">Python learner | most time programmer | The ultimate ITIT </h3>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=El+mejor+programador;Un+hombre+hecho+maquina,;the+best+of+the+best,;Un+estudiante...+una+mision"</a>
@@ -14,7 +14,7 @@
 - 👯 Busco trabajar en una compañia grande como desarrollador de software o de paginas web, como Microsoft, Google o NVIDIA
 - 💬 Conozco sobre Python, Markwdown, ciertos conocimientos de IA.
 - ⚡ Fun fact: Me gusta la poesia. 
-- 🤔 Estoy constantemente tomando cursos de progamación.
+- 🤔 Estoy constantemente tomando cursos de progamación para mejorar las bases y/o conocer más areas (actualmente estoy viendo sobre ciberseguridad)
 - 📫 Soy un aficionado por la fisica.
 -  📰 Articles: 
 	-	[Build Your Own Generative Adversarial Network (GAN) Using Pytorch](https://pub.towardsai.net/build-your-own-generative-adversarial-network-gan-using-pytorch-c367b8506987) 
