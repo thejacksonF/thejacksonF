@@ -51,16 +51,12 @@
 
 ## Programming Languages
 
-<p>
+ <p>
+	<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"></a> 
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
-</p>
-
-## Frameworks and Libraries
-<p>
-   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white"></a>
-   <a href="#"><img alt="Tailwindcss" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwindcss&logoColor=white"></a>
+	
 </p>
 
 ## Operating Systems
