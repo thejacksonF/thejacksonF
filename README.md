@@ -1,8 +1,8 @@
 <h1 align="center"><b>Hi , I'm Sebastián Avitia Jaquez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Python learner | most time programmer | The ultimate ITIT </h3>
+<h3 align="center">Python learner | most time programmer | A passionate wriiter </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=El+mejor+programador;Un+hombre+hecho+maquina,;the+best+of+the+best,;Un+estudiante...+una+mision"</a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Mathematics enthusiast;,;I am currently learning about JAVA,;A constant learner"</a>
 </p>
 
 
